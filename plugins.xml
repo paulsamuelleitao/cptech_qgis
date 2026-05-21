@@ -7,7 +7,7 @@
         <author_name>Paul Leitao</author_name>
         <download_url>https://raw.githubusercontent.com/paulsamuelleitao/cptech_qgis/refs/heads/main/cptech_copy_coords.zip</download_url>
     </pyqgis_plugin>
-    <pyqgis_plugin name="CPTechnical Survey Data Loader" version="0.1">
+    <pyqgis_plugin name="CPTechnical Survey Data Loader" version="0.2">
         <description>Load CPTechnical Survey Data directly into QGIS</description>
         <qgis_minimum_version>3.4</qgis_minimum_version>
         <file_name>survey_data_loader</file_name>
