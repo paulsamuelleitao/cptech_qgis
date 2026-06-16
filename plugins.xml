@@ -4,14 +4,21 @@
         <description>Copy Coordinates from the map in WGS84 in a single click</description>
         <qgis_minimum_version>3.4</qgis_minimum_version>
         <file_name>cptech_copy_coords</file_name>
-        <author_name>Paul Leitao</author_name>
+        <author_name>CP Technical Services - Paul Leitao</author_name>
         <download_url>https://raw.githubusercontent.com/paulsamuelleitao/cptech_qgis/refs/heads/main/cptech_copy_coords.zip</download_url>
     </pyqgis_plugin>
     <pyqgis_plugin name="CPTechnical Survey Data Loader" version="0.2">
         <description>Load CPTechnical Survey Data directly into QGIS</description>
         <qgis_minimum_version>3.4</qgis_minimum_version>
         <file_name>survey_data_loader</file_name>
-        <author_name>Paul Leitao</author_name>
+        <author_name>CP Technical Services - Paul Leitao</author_name>
         <download_url>https://raw.githubusercontent.com/paulsamuelleitao/cptech_qgis/refs/heads/main/survey_data_loader.zip</download_url>
+    </pyqgis_plugin>
+    <pyqgis_plugin name="CPTechnical LSD Labeler" version="0.2">
+        <description>Label LSDs onto Survey Points</description>
+        <qgis_minimum_version>3.4</qgis_minimum_version>
+        <file_name>lsd_labeler</file_name>
+        <author_name>CP Technical Services - Paul Leitao</author_name>
+        <download_url>https://raw.githubusercontent.com/paulsamuelleitao/cptech_qgis/refs/heads/main/lsd_labeler.zip</download_url>
     </pyqgis_plugin>
 </plugins>
