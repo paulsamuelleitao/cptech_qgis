@@ -14,7 +14,7 @@
         <author_name>CP Technical Services - Paul Leitao</author_name>
         <download_url>https://raw.githubusercontent.com/paulsamuelleitao/cptech_qgis/refs/heads/main/survey_data_loader.zip</download_url>
     </pyqgis_plugin>
-    <pyqgis_plugin name="CPTechnical LSD Labeler" version="0.2">
+    <pyqgis_plugin name="CPTechnical LSD Labeler" version="0.1">
         <description>Label LSDs onto Survey Points</description>
         <qgis_minimum_version>3.4</qgis_minimum_version>
         <file_name>lsd_labeler</file_name>
